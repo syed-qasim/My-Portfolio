@@ -38,6 +38,6 @@ _Bootstrap_
 
 ### License
 
-*This softwareis licensed under the MIT license.*
+*This software is licensed under the MIT license.*
 
 Copyright (c) 2017 **_Syed Qasim_**
