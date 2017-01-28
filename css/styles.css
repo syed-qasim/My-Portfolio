@@ -1,3 +1,15 @@
 img {
   float: right;
 }
+
+h2 {
+  background-color: yellow;
+}
+
+.headers   h3 {
+  color: blue;
+}
+
+span {
+  font-weight: bold;
+}
