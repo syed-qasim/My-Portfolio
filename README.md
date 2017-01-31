@@ -8,6 +8,10 @@
 
 _This is a webpage highlighting my Portfolio of work. This project portrays my command of HTML, CSS, Bootstrap along with Git and Github. Also included is the display of knowledge about tags and the necessary components of markdown._
 
+_The Gh-Page link is:_
+
+https://syed-qasim.github.io/My-Portfolio/
+
 ## Setup/Installation Requirements
 
 * _Clone this Repository_
